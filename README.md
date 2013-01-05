@@ -2,6 +2,9 @@
 ###Aim
 This is a small project to show Apache Mahout working as an offline recommendation for an ecommerce website. The code included creates random data for 5000 customers based on a million random recommendations for 45000 products.  These values can be adjusted within the code if you require.
 
+###Using it? 
+If you're using this code then that's fantastic news. Feel free to let me know, I might even create a little link list of who's who. 
+
 ##Getting Started
 
 ###Requirements
